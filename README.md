@@ -5,3 +5,4 @@
 - mkdir test
 - cd test/
 - git clone https://github.com/dnflahzk/test.git
+- touch README.md
